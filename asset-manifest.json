@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Mandapatigoutham/Todo-App.git/static/css/main.2bcd39d8.chunk.css",
+    "main.js": "/Mandapatigoutham/Todo-App.git/static/js/main.6f9c0a9f.chunk.js",
+    "main.js.map": "/Mandapatigoutham/Todo-App.git/static/js/main.6f9c0a9f.chunk.js.map",
+    "runtime-main.js": "/Mandapatigoutham/Todo-App.git/static/js/runtime-main.d1c99801.js",
+    "runtime-main.js.map": "/Mandapatigoutham/Todo-App.git/static/js/runtime-main.d1c99801.js.map",
+    "static/js/2.27eae9f3.chunk.js": "/Mandapatigoutham/Todo-App.git/static/js/2.27eae9f3.chunk.js",
+    "static/js/2.27eae9f3.chunk.js.map": "/Mandapatigoutham/Todo-App.git/static/js/2.27eae9f3.chunk.js.map",
+    "static/js/3.d9115ad5.chunk.js": "/Mandapatigoutham/Todo-App.git/static/js/3.d9115ad5.chunk.js",
+    "static/js/3.d9115ad5.chunk.js.map": "/Mandapatigoutham/Todo-App.git/static/js/3.d9115ad5.chunk.js.map",
+    "index.html": "/Mandapatigoutham/Todo-App.git/index.html",
+    "static/css/main.2bcd39d8.chunk.css.map": "/Mandapatigoutham/Todo-App.git/static/css/main.2bcd39d8.chunk.css.map",
+    "static/js/2.27eae9f3.chunk.js.LICENSE.txt": "/Mandapatigoutham/Todo-App.git/static/js/2.27eae9f3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d1c99801.js",
+    "static/js/2.27eae9f3.chunk.js",
+    "static/css/main.2bcd39d8.chunk.css",
+    "static/js/main.6f9c0a9f.chunk.js"
+  ]
+}
